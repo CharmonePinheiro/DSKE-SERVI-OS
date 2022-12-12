@@ -196,3 +196,33 @@ p{
         width:350px;
         
     }
+
+    .card-ass{
+        height: 300px;
+        width: 600px;
+        
+    }
+
+    .asside{
+
+display: flex;
+justify-content: space-around;
+padding-top: 100px;
+background-color: rgb(247, 243, 243);
+
+
+    }
+    .footer{
+        background-color: rgb(175, 172, 172);
+        height: 100px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .img-footer img{
+        height: 25px;
+        width: 25px;
+        
+    }
